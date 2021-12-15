@@ -1,4 +1,4 @@
-project = "devopsjunction"
+project = "leafy-bulwark-324514"
 region = "us-central1"
-user = "middlewareinvetory_gmail_com" # this should match the username set by the OS Login
-email = "dj-serviceaccount@devopsjunction.iam.gserviceaccount.com"
+user = "pillakathupunageswarao128@gmail.com" # this should match the username set by the OS Login
+email = "761105861758-compute@developer.gserviceaccount.com"
